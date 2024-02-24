@@ -1,0 +1,12 @@
+/* styles.css or your custom styles file */
+
+.dashboard-layout-container {
+    display: flex;
+  }
+  
+  .content-area {
+    flex: 1;
+    
+    margin-left: 16px; /* Adjust the margin as needed */
+  }
+  
